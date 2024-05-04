@@ -1,5 +1,19 @@
 [![logo](vishu github and linkedin background image.png)][(vishu github and linkedin background image.png](https://github.com/vishu-Architect/vishu-Architect/vishu github and linkedin background image.png)
-<h1 align="center">Hi 👋, I'm Vishu Mourya</h1>
+<h1 align="center"> </h1>
+<h3 align="center">An aspiring Interior Designer and Architectural Draughtsman</h3>
+                                    Hi 👋, I'm Vishu Mourya``
+
+- 🌱 I’m currently learning **Google Sketchup and Lumen for advanced 3D modeling**
+
+- 👯 I’m looking to collaborate on **architectural and interior design projects**
+
+- 🤝 I’m looking for help with **advanced 3D modeling techniques**
+
+- 💬 Ask me about **AutoCAD, Google Sketchup, and architectural design**
+
+- 📫 How to reach me **vishumourya2001@gmail.com**
+
+- 📄 Know about my experiences [Vishu Mourya's Resume](<h1 align="center"> </h1>
 <h3 align="center">An aspiring Interior Designer and Architectural Draughtsman</h3>
 
 - 🌱 I’m currently learning **Google Sketchup and Lumen for advanced 3D modeling**
@@ -12,20 +26,7 @@
 
 - 📫 How to reach me **vishumourya2001@gmail.com**
 
-- 📄 Know about my experiences [Vishu Mourya's Resume](<h1 align="center">Hi 👋, I'm Vishu Mourya</h1>
-<h3 align="center">An aspiring Interior Designer and Architectural Draughtsman</h3>
-
-- 🌱 I’m currently learning **Google Sketchup and Lumen for advanced 3D modeling**
-
-- 👯 I’m looking to collaborate on **architectural and interior design projects**
-
-- 🤝 I’m looking for help with **advanced 3D modeling techniques**
-
-- 💬 Ask me about **AutoCAD, Google Sketchup, and architectural design**
-
-- 📫 How to reach me **vishumourya2001@gmail.com**
-
-- 📄 Know about my experiences [Vishu Mourya's Resume](<h1 align="center">Hi 👋, I'm Vishu Mourya</h1>
+- 📄 Know about my experiences [Vishu Mourya's Resume](<h1 align="center"> </h1>
 <h3 align="center">An aspiring Interior Designer and Architectural Draughtsman</h3>
 
 - 🌱 I’m currently learning **Google Sketchup and Lumen for advanced 3D modeling**
