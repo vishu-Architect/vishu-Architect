@@ -1,4 +1,4 @@
-[![logo](vishu github and linkedin background image.png)](https://github.com/vishu-Architect/vishu-Architect/blob/main/vishu%20github%20and%20linkedin%20background%20image.png?raw=true)
+[![logo](vishu github and linkedin background image.png)][(vishu github and linkedin background image.png](https://github.com/vishu-Architect/vishu-Architect/vishu github and linkedin background image.png)
 <h1 align="center">Hi 👋, I'm Vishu Mourya</h1>
 <h3 align="center">An aspiring Interior Designer and Architectural Draughtsman</h3>
 
